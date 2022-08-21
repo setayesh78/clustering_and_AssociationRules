@@ -43,7 +43,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 email - [sanavisetayesh@gmail.com](sanavisetayesh@gmail.com)
 
-Project Link: [https://github.com/setayesh78/clustering_and_AssociationRules)
+Project Link: [https://github.com/setayesh78/clustering_and_AssociationRules]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

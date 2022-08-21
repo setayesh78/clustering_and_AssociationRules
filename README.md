@@ -6,7 +6,8 @@
 # clustering_and_AssociationRules
 
 image compression with clustering with k_means and k = 3:
-<img src="https://github.com/setayesh78/clustering_and_AssociationRules/tree/main/images/Screenshot%20(1484).png"><br>
+
+![alt text](https://github.com/setayesh78/clustering_and_AssociationRules/blob/main/images/Screenshot%20(1484).png?raw=true)<br>
 
 ![alt text](https://github.com/setayesh78/clustering_and_AssociationRules/blob/main/images/Screenshot%20(1485).png?raw=true)<br>
 
